@@ -1,7 +1,7 @@
 Android-AOPExample
 ==================
 
-This is a simple example of Aspect Oriented Programming in Android.
+This is a simple example of [Aspect Oriented Programming in Android](http://fernandocejas.com/2014/08/03/aspect-oriented-programming-in-android/) as part of a blog post I have written.
 The idea was to measure how long takes a method to be executed, so based on annotations, a Metrics aspect was created for making easy to trace a method execution (you can take a look at the 'gintonic' folder).
 I wrote an article about Aspect Oriented Development in Android here:
 
