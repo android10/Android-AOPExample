@@ -42,4 +42,4 @@ License
     limitations under the License.
 
 
-![http://www.android10.org/myimages/android10_logo.png](http://www.android10.org/myimages/android10_logo_big.png)
+![http://www.android10.org/myimages/android10_logo_big.png](http://www.android10.org/myimages/android10_logo_big.png)
