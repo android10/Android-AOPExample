@@ -1,5 +1,3 @@
-<center>![http://www.android10.org/myimages/android10_logo.png](http://www.android10.org/myimages/android10_logo.png)</center>
-
 Android-AOPExample
 ==================
 
@@ -42,3 +40,6 @@ License
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+![http://www.android10.org/myimages/android10_logo.png](http://www.android10.org/myimages/android10_logo_big.png)
