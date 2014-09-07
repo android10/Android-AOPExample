@@ -1,4 +1,4 @@
-Android-AOPExample
+Android-AOPExample [![Build Status](https://travis-ci.org/android10/Android-AOPExample.svg)](https://travis-ci.org/android10/Android-AOPExample)
 ==================
 
 This is a simple example of [Aspect Oriented Programming in Android](http://fernandocejas.com/2014/08/03/aspect-oriented-programming-in-android/) as part of a blog post I have written.
