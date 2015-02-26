@@ -11,7 +11,7 @@ buildscript {
   }
 }
 
-apply plugin: 'android'
+apply plugin: 'com.android.application'
 
 repositories {
   mavenCentral()
@@ -30,12 +30,6 @@ android {
     applicationId 'android10.org.viewgroupperformance'
     minSdkVersion 15
     targetSdkVersion 19
-  }
-
-  buildTypes {
-    dev {
-      applicationIdSuffix '.dev'
-    }
   }
 
   lintOptions {
