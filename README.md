@@ -19,8 +19,8 @@ Local Development
 
 Here are some useful Gradle/adb commands for executing this example:
 
- * `gradlew clean build` - Build the entire example.
- * `gradlew installDebug` - Install the debug apk in the current connected device.
+ * `./gradlew clean build` - Build the entire example.
+ * `./gradlew installDebug` - Install the debug apk in the current connected device.
  * `adb shell am start -n android10.org.viewgroupperformance/org.android10.viewgroupperformance.activity.MainActivity` - Start the Main Activity of the example.
 
 
